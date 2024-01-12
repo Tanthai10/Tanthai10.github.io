@@ -1,0 +1,39 @@
+h1{
+    color: rgb(45, 210, 30);
+    font-size: 40pt;
+    font-style: oblique;
+}
+h2{
+    color: rgb(45, 210, 30);
+    font-size: 30pt;
+    font-style: oblique;
+}
+h3{
+    color: blueviolet;
+}
+body{
+    background-image: url(/img/BG.jpg);
+}
+.box{
+    background-color: lightgrey;
+    border: 3px solid green;
+    width: 900px;
+    height: 500px;
+    margin: 800px 10px 10px 500px;
+}
+p{
+    font-size: 23px;
+    font-style: oblique;
+    
+}
+center{
+    font-size: 40px;
+    font-style: oblique;
+}
+.box2{
+    background-color: lightgrey;
+    border: 3px solid green;
+    width: 900px;
+    height: 500px;
+    margin: 800px 10px 10px 500px;
+}
